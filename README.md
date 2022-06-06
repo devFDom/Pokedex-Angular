@@ -4,7 +4,7 @@ Another quick project to learn some Angular api stuff.
 
 Made using the fantastic and free PokéAPI https://pokeapi.co/
 
-Live demo at: http://vercel.com/devfdom/pokedex-angular
+Live demo at [here](https://pokedex-angular-three.vercel.app/)
 
 ![Image text](/src/assets/img/logoREADME.png) 
 
@@ -35,21 +35,17 @@ See **Installation** to learn how to deploy the project.
 
 Verifies the proper functioning of the web with the technologies applied to it.
 
-**Tech used:** HTML, CSS, TypeScript, Angular 13
+
+## Tools 🛠️
+
+* [Angular 13](https://angular.io/) - JavaScript Framework.
+* [TypeScript](https://www.typescriptlang.org/) - Programming language.
+* [Git & GitHub](https://github.com) - Keeping track of changes in computer files including coordinating team work.
+* [Vercel](https://vercel.com/) - Build Web Application.
 
 Another small project to teach myself Angular.
 Made using the PokéAPI, it will display 12 pokemons by default on each page.
 I had to make a few quick fixes to arrange pokemons so it doesn't look bad.
-
-
-
-
-## Tools 🛠️
-
-
-* [Angular](https://angular.io/) - JavaScript Framework
-* [Git & GitHub](https://github.com) - Keeping track of changes in computer files including coordinating team work.
-* [Vercel](https://vercel.com/) - Build Web Application
 
 
 ## Optimizations
