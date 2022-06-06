@@ -4,7 +4,7 @@ Another quick project to learn some Angular api stuff.
 
 Made using the fantastic and free PokéAPI https://pokeapi.co/
 
-Live demo at [here](https://pokedex-angular-three.vercel.app/)
+Live demo at [here](https://pokedex-angular13.vercel.app/)
 
 ![Image text](/src/assets/img/logoREADME.png) 
 
